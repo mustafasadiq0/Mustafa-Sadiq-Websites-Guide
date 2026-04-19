@@ -1,0 +1,43 @@
+Create and host a responsive, mobile-friendly Arabic-language website titled "دليل المواقع الرقمية للدكتور مصطفى صادق". The site should serve as a centralized hub showcasing all previously created 24 Manus-hosted sites. Each site entry must include:
+
+- The title of the sub-site as a clickable link (opens in new tab)
+- A short description (1–2 lines) in Arabic about what the sub-site offers
+- A real-time or simulated visit counter (click tracker) that increments each time the link is clicked
+- A clean, modern card-based layout that allows easy browsing and future expansion
+
+Add a search bar at the top to allow users to filter by topic or keywords.
+
+Include basic analytics support (even simulated) to display the most visited sites.
+
+Use consistent styling, spacing, and typography. Prioritize UX, speed, and visual clarity.
+
+Also include a short "About this directory" paragraph on top explaining that these are digital initiatives and interactive knowledge products developed by Dr. Mustafa Sadiq in collaboration with Manus AI Agent during 2025.
+
+Ensure the site can scale with more entries in the future.
+
+Use the following links and descriptions as the main directory content:
+1. كشف الكذب من نبرة الصوت – أداة أولية لتحليل نبرة الصوت والتعرف على المصداقية.
+2. السياحة في العراق – دليل تفاعلي لمعالم العراق السياحية والدينية والتاريخية.
+3. تقرير الأمن السيبراني العراقي – تحليل لأهم المخاطر والتهديدات حتى حزيران 2025.
+4. الاقتصاد الرقمي العراقي 2025 – دراسة استراتيجية لمجالات التحول الرقمي في العراق.
+5. الصراع العربي الصهيوني – موقع تفاعلي توثيقي يعرض أبرز المحطات والتحولات.
+6. خارطة طريق الأمن السيبراني – دليلك الأول في مجال الأمن السيبراني العراقي.
+7. توجهات البحث العلمي العراقي – تقرير تفاعلي يعرض أكثر المجالات التقنية بحثاً.
+8. السيرة الذاتية التفاعلية – عرض مبوب لمسيرة الدكتور مصطفى صادق.
+9. موقع العراق والذكاء الاصطناعي – تحليل مكانة العراق الإقليمية في AI حتى منتصف 2025.
+10. خرائط الذكاء الاصطناعي 2025 – مجمع المسارات المحدثة لتعلم الذكاء الاصطناعي.
+11. الذكاء الاصطناعي للأطفال – موارد معرفية مبسطة للصغار والناشئة.
+12. بوابة الوظائف والمسارات – معلومات مهنية عن المهارات وفرص العمل بالعراق 2025.
+13. دليل ISO 27001 – شرح مبسط للمعيار وتطبيقاته في المؤسسات العراقية.
+14. مساعد اختيار التخصص الجامعي – أداة تفاعلية لاختيار تخصصك الأكاديمي المناسب.
+15. خارطة التحول الرقمي – دليل مؤسساتي لتبني التقنيات الحديثة والتحول الرقمي.
+16. الاستجابة للحوادث السيبرانية – دليل شامل للإجراءات والأدوات في حالة الاختراق.
+17. أدوات اختبار الاختراق – تجميع لأهم أدوات الفحص والتقييم الأمني.
+18. الأمن السيبراني بلغة المدير العام – تبسيط المفاهيم الأمنية لغير المختصين.
+19. حماية الأطفال إلكترونياً – دليل عملي لأولياء الأمور والمربين.
+20. خريطة البحث العلمي للمهندسين – مسارات البحث المتقدمة للمهندسين العرب.
+21. حماية الهوية الرقمية – خطوات وإرشادات للمواطن العربي الرقمي.
+22. الموسوعة العراقية للذكاء الاصطناعي – قاعدة معرفية مفتوحة (تجريبية).
+23. عالم البرمجة – دليلك الأول في مسار تعلم البرمجة من الصفر.
+24. عالم الذكاء الاصطناعي – نقطة انطلاقك لفهم وتعلم تقنيات AI.
+
